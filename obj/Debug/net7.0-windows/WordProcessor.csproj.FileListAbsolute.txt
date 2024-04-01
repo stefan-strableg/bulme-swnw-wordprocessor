@@ -1,0 +1,17 @@
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.csproj.AssemblyReference.cache
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.WordProcessorForm.resources
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.csproj.GenerateResource.cache
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.AssemblyInfoInputs.cache
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.AssemblyInfo.cs
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.csproj.CoreCompileInputs.cache
+C:\repos\WordProcessor\WordProcessor\bin\Debug\net7.0-windows\WordProcessor.exe
+C:\repos\WordProcessor\WordProcessor\bin\Debug\net7.0-windows\WordProcessor.deps.json
+C:\repos\WordProcessor\WordProcessor\bin\Debug\net7.0-windows\WordProcessor.runtimeconfig.json
+C:\repos\WordProcessor\WordProcessor\bin\Debug\net7.0-windows\WordProcessor.dll
+C:\repos\WordProcessor\WordProcessor\bin\Debug\net7.0-windows\WordProcessor.pdb
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.dll
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\refint\WordProcessor.dll
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.pdb
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\WordProcessor.genruntimeconfig.cache
+C:\repos\WordProcessor\WordProcessor\obj\Debug\net7.0-windows\ref\WordProcessor.dll
